@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WanAPP</string>
+    <string name="my_like">收藏</string>
+    <string name="my_about">关于</string>
 </resources>
